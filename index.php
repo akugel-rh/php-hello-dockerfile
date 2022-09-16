@@ -1,3 +1,3 @@
 <?php
-print "I am a lobster" . PHP_VERSION . "\n";
+print "I am a walrus" . PHP_VERSION . "\n";
 ?>
