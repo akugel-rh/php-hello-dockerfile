@@ -1,3 +1,5 @@
 <?php
-print "I am a legume" . PHP_VERSION . "\n";
+
+print "I am a babboon" . PHP_VERSION . "\n";
+
 ?>
